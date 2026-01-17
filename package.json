@@ -1,0 +1,13 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "A collection of design pattern implementations in TypeScript",
+  "scripts": {
+    "build": "tsc",
+    "start:singleton": "node dist/Singleton-pattern/src/index.js",
+    "start:builder": "node dist/Builder-pattern/src/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
