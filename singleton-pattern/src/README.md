@@ -7,6 +7,7 @@
 
 - It is required when we are doing some expensive operation
 - Take lots of time create object.
+- Object is costly and shared.
 
 # Use Case
 

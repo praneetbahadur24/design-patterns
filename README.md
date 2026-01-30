@@ -1,4 +1,4 @@
-# design-patterns
+# Design-patterns
 
 - Design pattern provides solution to common used proble in software design.
 - Provide commonly encountered design problem with all establish solution.
