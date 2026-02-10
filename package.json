@@ -6,7 +6,8 @@
     "build": "tsc",
     "start:singleton": "node dist/Singleton-pattern/src/index.js",
     "start:builder": "node dist/Builder-pattern/src/index.js",
-    "start:prototype": "node dist/Prototype-registry/src/index.js"
+    "start:prototype": "node dist/Prototype-registry/src/index.js",
+    "start:factory": "node dist/Factory-pattern/src/index.js"
   },
   "devDependencies": {
     "typescript": "^5.0.0"
