@@ -8,7 +8,8 @@
     "start:builder": "node dist/Builder-pattern/src/index.js",
     "start:prototype": "node dist/Prototype-registry/src/index.js",
     "start:factory": "node dist/Factory-pattern/src/index.js",
-    "start:adapter": "node dist/Adapter-pattern/src/index.js"
+    "start:adapter": "node dist/Adapter-pattern/src/index.js",
+    "start:dry": "node dist/dryRun/src/index.js"
   },
   "devDependencies": {
     "typescript": "^5.0.0"
